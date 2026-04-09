@@ -214,4 +214,4 @@ wiznote/
 
 ## License
 
-Add your preferred open-source license before publishing.
+MIT. See [`LICENSE`](./LICENSE).

@@ -213,4 +213,4 @@ wiznote/
 
 ## License
 
-开源发布前，请补充你希望使用的许可证。
+MIT。见 [`LICENSE`](./LICENSE)。
